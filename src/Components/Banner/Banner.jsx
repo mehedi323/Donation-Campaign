@@ -4,7 +4,7 @@ import Header from "../Header/Header";
  
 const Banner = () => {
   return (
-    <div> 
+    <div className="bg-white"> 
       <Header></Header>
       <Outlet></Outlet>
     </div>

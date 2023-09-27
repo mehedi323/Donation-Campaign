@@ -18,7 +18,7 @@ const Home = () => {
         <h1 className="text-5xl text-[#0B0B0B] font-bold ">I Grow By Helping People In Need </h1>
       </div>
       <form  className="text-center mt-12  ">
-        <input className="border-2 p-2 w-1/2  border-gray-600"
+        <input className="border-2 p-2 w-1/2 "
           type="text"
           placeholder="Search..." 
           />
